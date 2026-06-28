@@ -19,7 +19,7 @@ You can use the following credentials to explore different roles within the syst
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Patient** | `patient@gmail.com` | `patient123` |
-| **Administrator** | `administrator@gmail.com` | `administrator123` |
+| **Administrator** | `administrator@gmail.com` | `administrator` |
 | **Assistant** | `assistant@gmail.com` | `assistant123` |
 | **Dr. Khalid** | `doctor@gmail.com` | `doctor123` |
 | **Dr. Amna** | `amna@gmail.com` | `amna123` |
